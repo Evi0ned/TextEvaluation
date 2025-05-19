@@ -1,5 +1,5 @@
 # TextEvaluation
-A simple text classification/summarization tool
+A simple text summarization tool
 
 ## How to use
 
